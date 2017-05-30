@@ -1,6 +1,6 @@
 /**
  * The position class that sets up row and col
- * @author Jake Jeffries
+ * @author Jake Jeffries/Michael Jaffe
  * @version 5/30/17
  */
 public class Position {
@@ -26,7 +26,7 @@ public class Position {
 	}
 	
 	/**
-	 * returns the row
+	 * accessor for row
 	 * @return row
 	 */
 	public int getRow(){
@@ -34,7 +34,7 @@ public class Position {
 	}
 	
 	/**
-	 * returns the column
+	 * accessor for column
 	 * @return col
 	 */
 	public int getColumn(){
