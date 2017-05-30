@@ -1,4 +1,5 @@
 /**
+ * Position.java
  * The position class that sets up row and col
  * @author Jake Jeffries/Michael Jaffe
  * @version 5/30/17
